@@ -25,7 +25,7 @@ The neural network model used to obtain this result has the following layers com
 
 |InputLayer|Hidden1|Hidden2|OutpoutLayer|
 |---|---|---|---|
-|30|100|100|6|
+|30|25|25|6|
 
 # Availability
 This dataset is under an open-source license, but the model's code is unavailable for privacy reasons. However, if you have any questions before using it, you can contact me by e-mail (damien.strullu@gmail.com) or Linkedin (https://www.linkedin.com/in/damienstrullu/). This dataset is not available for commercial purpose and makes no warranty for such use.
