@@ -11,7 +11,7 @@ The approach used to obtain this dataset investigates the general application's 
 
 # Dataset Population
 
-This dataset is composed by 9427 records (461 benigns and 611 malwares). You can see the statistics distribution on this table :
+This dataset is composed by 9427 records. You can see the statistics distribution on this table :
 
 |Adware|Banking|Ramsonware|Riskware|Scareware|SMS|Total|
 |---|---|---|---|---|---|---|
